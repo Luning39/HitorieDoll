@@ -1,0 +1,45 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "Luning39"
+        ],
+        "product_type": "addon"
+    },
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "min_engine_version": [
+            1,
+            21,
+            70
+        ],
+        "uuid": "575e4671-317a-4afb-afce-f17dc82cd293",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "ef7f54cb-351b-478d-b83d-83e0f38a8bc1",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "2475e55c-1a6b-4c56-a093-5384abf7e278",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

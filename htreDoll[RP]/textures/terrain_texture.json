@@ -1,0 +1,23 @@
+{
+    "num_mip_levels": 4,
+    "padding": 8,
+    "resource_pack_name": "vanilla",
+    "texture_name": "atlas.terrain",
+    "texture_data": {
+        "htre:wowaka": {
+            "textures": "textures/blocks/wowaka"
+        },
+        "htre:shinoda": {
+            "textures": "textures/blocks/shinoda"
+        },
+        "htre:yumao": {
+            "textures": "textures/blocks/yumao"
+        },
+        "htre:ygarshy": {
+            "textures": "textures/blocks/ygarshy"
+        },
+        "htre:rie": {
+            "textures": "textures/blocks/rie"
+        }
+    }
+}

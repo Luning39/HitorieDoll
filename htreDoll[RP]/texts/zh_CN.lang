@@ -1,0 +1,10 @@
+pack.name=Hitorie玩偶
+pack.description= 
+
+item.htre:wowaka=wowaka玩偶
+item.htre:shinoda=shinoda玩偶
+item.htre:yumao=yumao玩偶
+item.htre:ygarshy=ygarshy玩偶
+item.htre:rie=rie玩偶
+
+htre:itemGroup.name.doll=Hitorie玩偶

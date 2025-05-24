@@ -1,0 +1,10 @@
+pack.name=ヒトリエドール
+pack.description= 
+
+item.htre:wowaka=wowakaドール
+item.htre:shinoda=シノダドール
+item.htre:yumao=ゆまおドール
+item.htre:ygarshy=イガラシドール
+item.htre:rie=リエドール
+
+htre:itemGroup.name.doll=ヒトリエドール

@@ -1,0 +1,42 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": ["Luning39"]
+    },
+    "header": {
+        "name": "pack.name",
+        "description": "pack.description",
+        "min_engine_version": [
+            1,
+            21,
+            70
+        ],
+        "uuid": "2475e55c-1a6b-4c56-a093-5384abf7e278",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "9660cef6-6a6b-4da8-91a0-2f08562b501b",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "575e4671-317a-4afb-afce-f17dc82cd293",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

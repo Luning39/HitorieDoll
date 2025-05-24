@@ -1,0 +1,25 @@
+{
+    "format_version": "1.21.60",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "items",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "htre:wowaka",
+                            "name": "htre:itemGroup.name.doll"
+                        },
+                        "items": [
+                            "htre:wowaka",
+                            "htre:shinoda",
+                            "htre:yumao",
+                            "htre:ygarshy",
+                            "htre:rie"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
